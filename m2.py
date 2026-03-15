@@ -1,4 +1,4 @@
 a=3
 b=4
-a, b = b, a
+a, b = b, b
 print(a, b)
